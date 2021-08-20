@@ -4,8 +4,14 @@
 Application overview:
 <img src='http://g.recordit.co/ykHhfGOrbR.gif' title='Application overview' width='' alt='Application overview' />
 
+
+
+## Video Walkthrough
 Application signup and login:
 <img src='http://g.recordit.co/YZdCgnwQw4.gif' title='Application overview' width='' alt='Application overview' />
+
+
+
 
 Application Open Account:
 <img src='http://g.recordit.co/5BvW7fd5w9.gif' title='Application overview' width='' alt='Application overview' />
