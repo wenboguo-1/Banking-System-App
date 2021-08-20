@@ -2,7 +2,7 @@
 ## Video Walkthrough
 
 Application overview:
-<img src='http://g.recordit.co/ykHhfGOrbR.gif' title='Application overview' width='' />
+<img src='http://g.recordit.co/ykHhfGOrbR.gif' title='Video Walkthrough' width=''  alt='Video Walkthrough' />
 
 Application signup and login:
 <img src='http://g.recordit.co/YZdCgnwQw4.gif' title='Application overview' width='' alt='Application overview' />
