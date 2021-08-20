@@ -24,6 +24,14 @@ Application Deposit:
 
 <img src='http://g.recordit.co/MUrqfNU81s.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
-Application Withdraw:
+Application Withdraw
+
+<img src='http://g.recordit.co/nfvpSWZ6H7.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+
+Application Transfer
+
+<img src='http://g.recordit.co/3cm3wTZ2i0.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+
+Application History:
 
 <img src='http://g.recordit.co/Ov3qySWcxh.gif' title='Video Walkthroughw' width='300px' alt='Video Walkthrough' />
