@@ -3,7 +3,7 @@
 
 Application overview:
 
-<img src='http://g.recordit.co/ykHhfGOrbR.gif' title='Video Walkthrough' width='100px'  alt='Video Walkthrough' />
+<img src='http://g.recordit.co/ykHhfGOrbR.gif' title='Video Walkthrough' width='400px'  alt='Video Walkthrough' />
 
 Application signup and login:
 
